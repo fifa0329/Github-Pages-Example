@@ -83,14 +83,14 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     background-size:cover;
     background-position:50% 50%;
 }
-.blog .aside{
-    background-image:url(https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*cF2i1ZosSP_UTJig.jpeg);
+.life .aside{
+    background-image:url(http://ww1.sinaimg.cn/mw690/75d2198djw1ente27u2onj20dr0kmadl.jpg);
 }
-.opinion .aside{
-    background-image:url(https://dnqgz544uhbo8.cloudfront.net/_/fp/img/bestof/june-2013.CaUUbO2jIECgCmldhmxCCA.jpg);
+.work .aside{
+    background-image:url(http://ww1.sinaimg.cn/mw690/75d2198djw1ente26e6nvj20dr0kmwg9.jpg);
 }
 .project .aside{
-    background-image:url('https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*kTUZamBulGQZg1MW.jpeg')
+    background-image:url('http://ww3.sinaimg.cn/mw690/75d2198djw1ente263eo7j20dr0kmdjh.jpg')
 }
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
 
