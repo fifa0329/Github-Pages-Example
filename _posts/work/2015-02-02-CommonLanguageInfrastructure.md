@@ -48,7 +48,7 @@ description: 整理一下对于CLI的理解，会用思维导图的形式呈现
 4. Framework Libraries
 5. The Common Language Specification (CLS)
 
-我准备绘制了一张思维导图，用来表达我个人的理解
+我绘制了一张思维导图，用来表达我个人的理解
 
 [思维导图之Common Language Infrastructure](http://naotu.baidu.com/viewshare.html?shareId=at75c0yiq2w4)
 
