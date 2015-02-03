@@ -200,5 +200,25 @@ Exposure Time:1/60
 
 
 ---
+##结果有点出乎意料
+更新于2015-02-03
+
+![Alt text](http://ww4.sinaimg.cn/mw690/75d2198djw1eomr1fgcgqj21kw16ok9s.jpg)
+居然是这幅作品获了奖，果然萝卜青菜各有所爱！
+
+至于价值一千元的奖品，是一款三脚架，（我们当时都戏称一等奖2000的三脚架，二等奖1000的三脚架，三等奖500的三脚架，参与奖100的三脚架，不得不说三脚架的价格范围还是很大的）
+
+型号为[bk476](http://s.taobao.com/search?q=bk476&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=1.7274553.1997520841.1&initiative_id=tbindexz_20150203)
+
+![Alt text](http://ww3.sinaimg.cn/mw690/75d2198djw9eowhy0oj7bj21kw23u1bz.jpg)
+
+主办的同事找到了我，给了我奖品，让我拿着奖品和证书对着白墙照了张相片，就没有下文了。
+
+遗憾的是：
+
+我也不知道其他选手的作品都咋样，并没有公布出来，感觉一切都被蒙在鼓里，我觉得这确实有点虎头蛇尾了！
+
+**但是，下次我还是会参加，谁会嫌奖品多哪，哈哈！**
+
 
 
